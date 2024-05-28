@@ -1,0 +1,9 @@
+README.md
+setup.py
+us_cities/__init__.py
+us_cities/city_info.py
+us_cities/data.csv
+us_cities.egg-info/PKG-INFO
+us_cities.egg-info/SOURCES.txt
+us_cities.egg-info/dependency_links.txt
+us_cities.egg-info/top_level.txt
